@@ -4,7 +4,9 @@
   "description": "three.js - common math",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "nomilous/three": "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
